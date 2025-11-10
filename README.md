@@ -83,8 +83,8 @@ The app will run on `http://localhost:3000`
 
 ##  Live Demo
 
-- **Frontend:** [Your Vercel URL]
-- **Backend:** [Your Render URL]
+- **Frontend:** [https://social-media-app-mu-five.vercel.app]
+- **Backend:** [https://social-media-app-backend-em7y.onrender.com]
 
 ##  Screenshots
 
