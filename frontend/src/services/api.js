@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for your backend API
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://social-media-app-backend-em7y.onrender.com/api'
 
 // Create axios instance
 const api = axios.create({
