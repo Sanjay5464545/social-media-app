@@ -14,7 +14,10 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 
-app.use(cors());
+app.use(cors({
+  origin: ['http://localhost:3000', 'https://social-media-app-mu-five.vercel.app'],
+  credentials: true
+}));
 app.use(express.json());
 
 
